@@ -1,0 +1,7 @@
+Mar_24:
+    I tried to implement the api for worksnap automation but it turns out to be fail since the api s complex that it can only be used in the api testing environment that 
+    the wroksnap provides.
+
+    Need to work on selenium and automation. since its the only way to works while trying that in the past projects of automation the worksnap.
+
+    If you are working in linux machine then you have to download "sudo apt install chromium-chromedriver"
